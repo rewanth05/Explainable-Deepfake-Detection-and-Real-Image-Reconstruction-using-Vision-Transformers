@@ -1,8 +1,3 @@
-# Explainable-Deepfake-Detection-and-Real-Image-Reconstruction-using-Vision-Transformers
-Perfect — here’s a clean and professional **GitHub-friendly Markdown version** of your project description (for your repository README or portfolio section):
-
----
-
 ##  Explainable Deepfake Detection and Real Image Reconstruction using Vision Transformers
 
 
